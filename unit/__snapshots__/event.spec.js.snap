@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Event.vue events are being showed 1`] = `
+<div class="hello">
+  <hr>
+  <p>Register to a meetup today!</p>
+  <hr>
+  <div>
+    <ul class="row">
+      <li>
+        <div class="column">
+          <div class="location">
+            Stockholm
+          </div>
+          <div class="date">
+            5/10
+          </div>
+          <p class="reg">
+            <router-link to="/Register" tag="button" class="button">Register</router-link>
+          </p>
+        </div>
+      </li>
+      <li>
+        <div class="column">
+          <div class="location">
+            Milano
+          </div>
+          <div class="date">
+            20/10
+          </div>
+          <p class="reg">
+            <router-link to="/Register" tag="button" class="button">Register</router-link>
+          </p>
+        </div>
+      </li>
+      <li>
+        <div class="column">
+          <div class="location">
+            London
+          </div>
+          <div class="date">
+            18/11
+          </div>
+          <p class="reg">
+            <router-link to="/Register" tag="button" class="button">Register</router-link>
+          </p>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
