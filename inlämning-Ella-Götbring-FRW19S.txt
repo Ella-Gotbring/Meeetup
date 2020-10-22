@@ -1,5 +1,5 @@
      länk: https://github.com/Ella-Gotbring/Meeetup
      Jag har använt mig av Heroku 
-     länk heroku: Fastnade i logging med felkoden H14,  Deployed meetupapp (c85e9d40d7b6), https://dashboard.heroku.com/apps/meet--upapp/deploy/github
+     länk heroku: https://damp-journey-32569.herokuapp.com/#/ 
      Jag har inte implementerat några level ups
      Jag tycker att det viktigaste den här kursen har handlat om och det som varit svårast har varit att ställa om tänkandet och agerandet från att skriva koden först till att tänka ur ett TDD perspektiv och applicera den principen. Jag tycker att det känns som mer jobb att börja ett projekt med att skriva tester (som att ta en omväg) men börjar förstå nu mot slutet av kursen att TDD används mer som en genväg och för att inte få massor av problem med buggar mot slutet av projekten.    
